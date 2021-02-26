@@ -5,7 +5,7 @@
         "yii2",
         "extension",
         "widget",
-        "module",
+        "bootstrap4",
         "image",
         "upload",
         "crop",
